@@ -1,7 +1,7 @@
 # DesignPatterns
 ![Maturidade](https://github.com/thiagobritorocha/DesignPatterns/blob/master/dp.png) 
 
-# Boas ideias e bons princípios da orientação objeto! \o/
+# Boas ideias:bulb:e bons princípios da orientação objeto! :high_brightness:
 
 # Alto Acoplamento
 
