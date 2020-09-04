@@ -5,27 +5,27 @@ Boas ideias e bons princípios da orientação objeto
 
 # Alto Acoplamento
 
--Forte dependência entre compontes.
+- Forte dependência entre compontes.
 
--É dificil trocar dependências de um objeto sem quebrar seu funcionamento interno.
+- É dificil trocar dependências de um objeto sem quebrar seu funcionamento interno.
 
--É dificil adicionar mais funcionalidades ao componte sem ter que alterar seu código.
+- É dificil adicionar mais funcionalidades ao componte sem ter que alterar seu código.
 
 
 # Baixa Coesão
 
--Varias funcionalidades em um mesmo objeto
+- Varias funcionalidades em um mesmo objeto
 
--Difícil reaproveitamento
+- Difícil reaproveitamento
 
--Difícil manutenção
+- Difícil manutenção
 
--Alta complexidade
+- Alta complexidade
 
 # Alta Coesão
 
--Objetos devem fazer apenas uma (e  bem feita) tarefa.
+- Objetos devem fazer apenas uma (e  bem feita) tarefa.
 
--Mairo capacidade de reaproveitamento
+- Mairo capacidade de reaproveitamento
 
--Facilidade de manutenção 
+- Facilidade de manutenção 
