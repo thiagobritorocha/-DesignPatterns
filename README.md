@@ -26,6 +26,6 @@
 
 - Objetos devem fazer apenas uma (e  bem feita) tarefa.
 
-- Mairo capacidade de reaproveitamento
+- Maior capacidade de reaproveitamento
 
 - Facilidade de manutenção 
