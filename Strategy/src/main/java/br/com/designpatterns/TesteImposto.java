@@ -19,7 +19,7 @@ public class TesteImposto {
 
 		CalculadorDeImpostos calculadora = new CalculadorDeImpostos();
 
-		lista.forEach(i -> calculadora.realizaCalculo(orcamento, i));
+		lista.forEach(i -> calculadora.realizaCalculo(i, orcamento));
 		
 	}
 }
